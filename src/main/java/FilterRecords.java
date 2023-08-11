@@ -42,10 +42,6 @@ import java.util.List;
  *      SELECT * FROM employees WHERE first_name LIKE 'S%'
  * This will return all the records with a salary value of less than $100,000.00
  *      SELECT * FROM employees WHERE salary < 100000.00
- *
- *
- *  Additional reference material if needed: https://www.w3schools.com/sql/sql_where.asp
- *
  */
 public class FilterRecords {
 
